@@ -1,0 +1,10 @@
+streamlit
+pandas
+langchain
+langchain-groq
+langchain-community
+chromadb>=1.0.21
+pydantic>=2.7.4
+pydantic-settings
+python-dotenv
+numpy>=2.0.0
